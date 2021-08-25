@@ -1,1 +1,1 @@
-# Embedded_System_Coursera
+# Embedded_System_UniversityOfBoulder_Coursera
